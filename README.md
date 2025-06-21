@@ -17,7 +17,6 @@ It demonstrates portfolio allocation techniques, performance analysis, and rich 
 - **yFinance** – for fetching live stock price and metadata
 - **Pandas**, **NumPy** – for data manipulation
 - **Matplotlib**, **Seaborn** – for plotting
-- **Streamlit** *(optional)* – for an interactive dashboard
 
 ---
 
@@ -28,7 +27,6 @@ It demonstrates portfolio allocation techniques, performance analysis, and rich 
 - Compute and compare:
   - Cumulative return
   - Daily volatility
-  - Sharpe Ratio (assumes risk-free rate = 0)
 - Visualize:
   - Index performance over time
   - Portfolio weights by ticker
